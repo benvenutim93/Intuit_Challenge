@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Intuit.API</name>
+    </assembly>
+    <members>
+        <member name="M:Intuit.API.Controllers.ClientesController.GetAll">
+            <summary>
+            Obtiene todos los clientes de la BD
+            </summary>
+            <response code="200">OK. Se obtuvieron los clientes.</response>      
+            <response code="204">No Content. No hay clientes cargados en la BD.</response>    
+            <response code="500">Internal Server Error. Error en el acceso a los datos.</response> 
+        </member>
+        <member name="M:Intuit.API.Controllers.ClientesController.GetById(System.Int32)">
+            <summary>
+            Obtiene un cliente segun su Id desde la BD
+            </summary>
+            <response code="200">OK. Devuelve el cliente buscado.</response>      
+            <response code="204">No Content. No existe el cliente con ese ID solicitado.</response>    
+            <response code="500">Internal Server Error. Error en el acceso a los datos.</response> 
+        </member>
+        <member name="M:Intuit.API.Controllers.ClientesController.Search(System.String)">
+            <summary>
+            Busca clientes en la BD, haciendo coincidir el parametro buscado con el Nombre, 
+            Apellido, Cuit, telefono o mail
+            </summary>
+            <response code="200">OK. Devuelve una lista de clientes que coincidan con el parametro buscado.</response>      
+            <response code="204">No Content. No existen clientes según el parámetro buscado.</response> 
+            <response code="400">Bad Request. El parámetro a buscar se encuentra vacio o es null</response> 
+            <response code="500">Internal Server Error. Error en el acceso a los datos.</response> 
+        </member>
+        <member name="M:Intuit.API.Controllers.ClientesController.Insert(Intuit.Models.Cliente)">
+            <summary>
+            Inserta un cliente en la BD.
+            </summary>
+            <response code="200">OK. Devuelve el cliente con el Id Correspondiente.</response>      
+            <response code="400">Bad Request. El Modelo del cliente a insertar es incorrecto</response> 
+            <response code="500">Internal Server Error. Error en el acceso a los datos.</response> 
+        </member>
+        <member name="M:Intuit.API.Controllers.ClientesController.Update(Intuit.Models.Cliente)">
+            <summary>
+            Actualiza un cliente en la BD.
+            </summary>
+            <response code="200">OK. Devuelve el cliente actualizado.</response>      
+            <response code="400">Bad Request. El Modelo del cliente a actualizar es incorrecto</response> 
+            <response code="500">Internal Server Error. Error en el acceso a los datos.</response> 
+        </member>
+    </members>
+</doc>

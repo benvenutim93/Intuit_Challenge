@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BbPHKr3TE4rnKkpPSUaJsDxSltJxtavK3hAc8JmgYYs=",
+  "Source": "Intuit.API",
+  "BasePath": "_content/Intuit.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

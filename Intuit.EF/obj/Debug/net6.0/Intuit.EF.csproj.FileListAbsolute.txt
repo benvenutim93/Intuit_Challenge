@@ -1,0 +1,17 @@
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\bin\Debug\net6.0\Intuit.EF.deps.json
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\bin\Debug\net6.0\Intuit.EF.runtimeconfig.json
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\bin\Debug\net6.0\Intuit.EF.dll
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\bin\Debug\net6.0\Intuit.EF.pdb
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\bin\Debug\net6.0\Intuit.Models.dll
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\bin\Debug\net6.0\Intuit.Models.pdb
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\obj\Debug\net6.0\Intuit.EF.csproj.AssemblyReference.cache
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\obj\Debug\net6.0\Intuit.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\obj\Debug\net6.0\Intuit.EF.AssemblyInfoInputs.cache
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\obj\Debug\net6.0\Intuit.EF.AssemblyInfo.cs
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\obj\Debug\net6.0\Intuit.EF.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\obj\Debug\net6.0\Intuit.EF.csproj.CopyComplete
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\obj\Debug\net6.0\Intuit.EF.dll
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\obj\Debug\net6.0\refint\Intuit.EF.dll
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\obj\Debug\net6.0\Intuit.EF.pdb
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\obj\Debug\net6.0\Intuit.EF.genruntimeconfig.cache
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.EF\obj\Debug\net6.0\ref\Intuit.EF.dll

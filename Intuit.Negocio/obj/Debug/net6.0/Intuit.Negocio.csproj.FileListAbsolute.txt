@@ -1,0 +1,17 @@
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\bin\Debug\net6.0\Intuit.Negocio.deps.json
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\bin\Debug\net6.0\Intuit.Negocio.dll
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\bin\Debug\net6.0\Intuit.Negocio.pdb
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\bin\Debug\net6.0\Intuit.EF.dll
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\bin\Debug\net6.0\Intuit.Models.dll
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\bin\Debug\net6.0\Intuit.EF.pdb
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\bin\Debug\net6.0\Intuit.Models.pdb
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\obj\Debug\net6.0\Intuit.Negocio.csproj.AssemblyReference.cache
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\obj\Debug\net6.0\Intuit.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\obj\Debug\net6.0\Intuit.Negocio.AssemblyInfoInputs.cache
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\obj\Debug\net6.0\Intuit.Negocio.AssemblyInfo.cs
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\obj\Debug\net6.0\Intuit.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\obj\Debug\net6.0\Intuit.Negocio.csproj.CopyComplete
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\obj\Debug\net6.0\Intuit.Negocio.dll
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\obj\Debug\net6.0\refint\Intuit.Negocio.dll
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\obj\Debug\net6.0\Intuit.Negocio.pdb
+C:\Users\Mariana\source\repos\Intuit.API\Intuit.Negocio\obj\Debug\net6.0\ref\Intuit.Negocio.dll
